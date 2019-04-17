@@ -1,6 +1,7 @@
 # Local
 
 #####Version inicial 
+
 |`git clone`| para clonar un repositorio|
-|----       |---|   
-prueba  
+|---       |--- 
+prueba  2
