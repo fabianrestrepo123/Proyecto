@@ -16,3 +16,14 @@
 ![diagrama](https://user-images.githubusercontent.com/49278927/57027972-6bc0a600-6c03-11e9-97e6-74006b211818.png)
 
 **Tablero:**
+
+| SEMANA 0| SEMANA 9| SEMANA 13 | SEMANA 18 | 
+| ---------- | ---------- | ---------  |------|
+| **lOGIN**   | La pagina debera contar con un login para registrarse o  iniciar sesion.  |   Se haran pruebas contantes para  hacer mas dinamica esta parte de la pagina.|Para esta semana no habran cambios. 
+| **PAGINA PRINCIPAL**   |   Se tendra un prototipo en Wireframe. | En este tiempo la pagina ya tendra un inicio lo suficientemente legible  y entendible donde encontrara toda la informacion de la pagina.|Se podran hacer cambios visuales en esta parte despues de hacer un estudio de card sorting con respecto a toda la pagina.
+| **PAGINA DE DISEÑO**   |   |  Wireframes.     | con ayuda  el estudio de card sorting  se diseñara   la pagina donde el usuario podra hacer su diseño.
+| **PAGINA DE VER DISEÑOS**  |   |     Wireframes.       | los usuarios podras ver los demas diseños  que han subido otros usuarios , por si estos estan interesados.
+
+
+
+
