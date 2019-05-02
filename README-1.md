@@ -9,7 +9,8 @@
 
 **Justificación:** por eventos y propósitos empresariales; para que la gente se exprese usando lo que le gusta con el diseño que le gusta.
 
-**Descripción de la propuesta:** nuestro proyecto es una aplicación web que permita al usuario (limitado a público juvenil y adulto) hacer estampado digital, al subir su propio dibujo o imágenes (código de color CMYK) y diseñar el producto (una camisa o una gorra), habrá variedad en el tipo de camisas (tipo polo, camibusos, busos, camisetas, manga larga, camisillas), tamaños de los logos, tipo de telas (algodón, nylon, licra), diferentes tallas(S, M, XL) , para todos los géneros y en colores de donde escoger; donde se podrá poner la imagen en el frente, en la espalda y en las mangas); con las gorras tendríamos 2 diseños (visera plana y de baseball) en la parte frontal y en la visera; para ser enviados a una empresa textil.
+**Descripción de la propuesta:** Nuestro proyecto es un sitio web que permitirá al usuario hacer su propio estampado digital, personalizando uno de nuestros productos, bien sea camisas, camisetas, Camibusos, camisetas manga larga y camisillas o gorras visera plana y de baseball, tambien podrán escoger el lugar, bien sea en las mangas, en la parte frontal y posterior de las camisas, en la visera o parte frontal de las gorras.
+Nuestro público objetivo estará enfocado en jóvenes y adultos, y nuestros tejidos tendrán gran variedad, algodón, nylon, poliester, licra, así mismo variedad en tallas, que irán de  S, M hasta xxl... etc , del mismo modo nuestros clientes podrán escoger el color de preferencia, y para garantizar una buena impresión, se utilizarán los colores en CMYK, ya que son pigmentos para impresión, estaremos conectados con una empresa textilera, con el fin de facilitar y garantizar un mejor servicio en nuestros productos
 
 **Diagrama:**
 
