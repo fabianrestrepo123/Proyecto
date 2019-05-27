@@ -19,7 +19,8 @@
 
 ### Observaciones Entregable Uno.
 - Mejorar Dominio del tema
-- Queda pendiente el tablero
+- Queda pendiente el tablero en la pestaña de proyectos.
 - No Se tuvieron en cuenta correcciones.
-- Falta evidenciar los dos perfiles mínimos
+- Falta evidenciar los dos perfiles mínimos.
+- No estan visibles los nombres de los intengrantes
 #### Nota: 4,1
