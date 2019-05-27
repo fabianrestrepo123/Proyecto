@@ -16,3 +16,10 @@
 ![diagrama](https://user-images.githubusercontent.com/49278927/57027972-6bc0a600-6c03-11e9-97e6-74006b211818.png)
 
 **Tablero:**
+
+### Observaciones Entregable Uno.
+- Mejorar Dominio del tema
+- Queda pendiente el tablero
+- No Se tuvieron en cuenta correcciones.
+- Falta evidenciar los dos perfiles mínimos
+#### Nota: 4,1
