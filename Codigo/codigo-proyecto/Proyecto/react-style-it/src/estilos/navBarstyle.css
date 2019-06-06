@@ -1,0 +1,31 @@
+.Navbar{
+width: 100%;
+padding: 30px;
+background-color: #eaed29;
+}
+
+.Navbar__brand{
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.Navbar__brand-text{
+    font-size: 30px;
+    font-style: oblique;
+    font-family: Georgia;
+    color: black;
+}
+
+.btn__dark{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 60px;
+    display: flex;
+    cursor:pointer;
+    justify-content: center;
+    border-color: black;
+    font-family: Georgia;
+    font-style: oblique;
+}
