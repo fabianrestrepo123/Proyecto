@@ -1,6 +1,10 @@
 import React , {Component} from 'react'
 import '../estilos/navBarstyle.css'
 import {Link} from 'react-router-dom'
+import NavbarExtras from '../components/Extras.js'
+import Busqueda from '../components/Busqueda.js';
+
+
 
 class NavBarComponents extends Component{
     render (){
@@ -8,20 +12,16 @@ class NavBarComponents extends Component{
             <div className="Navbar">  
                 <div className ="container-fluid" >
                     <div className="row">
-                        <div className="col-10">
+                        <div className="col-7">
                             <a className="NavBar__brand" href="/home">
                                 <span className="Navbar__brand-text"> Style it</span>
                             </a>
                         </div>
-                        <div className="col-2">
-                            <div className="row">
-                                <div className="col-6">
-                                    <button type="button" className="btn__dark">LOGIN</button>
-                                </div>
-                                <div className="col-6">
-                                    <button type="button" className="btn__dark">SIGN UP</button>
-                                </div>  
-                            </div>
+                        <div className="row-0">
+                            <Busqueda/>
+                        </div>
+                        <div className="row-2">
+                            <NavbarExtras/>
                         </div>
                     </div>
                 </div>
