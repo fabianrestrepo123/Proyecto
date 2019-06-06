@@ -1,0 +1,14 @@
+.btn-btn-default{
+    background-color: black;
+    color: white;
+    width: 130px;
+    display: flex;
+    cursor:pointer;
+    justify-content: center;
+    border-color: black;
+    font-family: Georgia;
+    margin: 10px;
+    font-size: 17.5px;
+    
+}
+
