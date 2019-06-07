@@ -1,5 +1,8 @@
 .search{
     background-color: #eaed29;
+    position: relative;
+    left: -30px;
+    top: 8px;
 }
 
 .buscar{
@@ -8,10 +11,11 @@
     cursor:pointer;
     border-color: black;
     font-family: Georgia;
-    margin: 10px;
-    font-size: 17.5px;
+    margin: -2.5%;
+    font-size: 18.5px;
 
 }
+
 
 
 
