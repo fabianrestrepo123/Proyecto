@@ -2,7 +2,8 @@ import React , {Component} from 'react'
 import '../estilos/navBarstyle.css'
 import {Link} from 'react-router-dom'
 import NavbarExtras from '../components/Extras.js'
-import Busqueda from '../components/Busqueda.js';
+import Busqueda from '../components/Busqueda.js'
+import RegistroUser from '../components/Registro.js'
 
 
 
@@ -25,7 +26,9 @@ class NavBarComponents extends Component{
                         </div>
                     </div>
                 </div>
+                
             </div>
+              
         )
     }
 }
