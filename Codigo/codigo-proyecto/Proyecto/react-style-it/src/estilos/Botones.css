@@ -1,6 +1,10 @@
-.btn-btn-default{
+.btn-primary1{
     background-color: black;
     color: white;
+    width: 130px;
+    justify-content: center;
+    font-family: Georgia;
+    font-size: 17.5px;
     width: 130px;
     display: flex;
     cursor:pointer;
@@ -8,7 +12,8 @@
     border-color: black;
     font-family: Georgia;
     margin: 10px;
-    font-size: 17.5px;
-    
+    font-size: 16.5px;
+    position: relative;
+    left: 100%;
 }
 

@@ -8,8 +8,7 @@ class NavbarExtras extends Component{
     render(){
         return(  
             <div class="btn-group">
-                <button type="button" class="btn-btn-default">Iniciar sesiòn</button>
-                <button type="button" class="btn-btn-default">Registrarse</button>
+                <button type="button" class="btn btn-primary1">Iniciar sesion</button>
             </div>
             
         )

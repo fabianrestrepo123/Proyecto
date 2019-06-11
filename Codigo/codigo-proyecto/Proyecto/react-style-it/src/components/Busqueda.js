@@ -8,8 +8,8 @@ class Busqueda extends Component{
         return(
             <nav class="search">
                 <form class="form-inline">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search" />
-                     <button class="buscar" type="submit">Buscar</button>
+                    <input class="form-control mr-sm-2" type="Buscar" placeholder="Buscar" aria-label="Search" />
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
                 </form>
             </nav>
         )
