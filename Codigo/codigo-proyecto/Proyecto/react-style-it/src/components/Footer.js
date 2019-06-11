@@ -1,16 +1,24 @@
 import React , {Component} from 'react'
-import '../estilos/navBarstyle.css'
 import {Link} from 'react-router-dom'
-import NavbarExtras from '../components/Extras.js'
+import '../estilos/Footerstyle.css'
 
-class NavbarFooter extends Component{
+
+class NavFooter extends Component{
     render (){
         return(
-            <div className="Footer">  
-                <div className ="container-fluid" >
+            <footer class="footer_1">
+                <div class="container-fluid">
+                    <div className="row-3">
+                        <span class="text">
+                            le footer.
+                        </span>
+                        <button></button>
+                        <button></button>
+                        <button></button>
+                    </div>
                 </div>
-            </div>
+            </footer>
         )
     }
 }
-export default Footer;
+export default NavFooter;
