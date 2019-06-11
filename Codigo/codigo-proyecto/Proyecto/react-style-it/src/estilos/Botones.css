@@ -1,19 +1,9 @@
-.btn-primary1{
-    background-color: black;
-    color: white;
-    width: 130px;
-    justify-content: center;
-    font-family: Georgia;
-    font-size: 17.5px;
-    width: 130px;
-    display: flex;
-    cursor:pointer;
-    justify-content: center;
-    border-color: black;
-    font-family: Georgia;
-    margin: 10px;
-    font-size: 16.5px;
+.btn-primary2{
     position: relative;
-    left: 100%;
+    background: black;
+    color: white;
+    width: auto;   
+    left: 25%; 
+    bottom: 50px;
 }
 

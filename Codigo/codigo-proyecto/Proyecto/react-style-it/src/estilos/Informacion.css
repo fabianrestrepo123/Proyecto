@@ -1,15 +1,10 @@
-.caja { 
-    color: #bfbfbf;
-    background: #889ccf;
-    margin: 350px 850px;
-    padding: 20px;     
+.card { 
     position: relative;
-    width: 40%;
-    background: #ffffff;
-    text-justify: auto;
-    
-   
-    
-
+    height: 450px;
+    width: 440px;
+    background-color: white;
+    left: 55%;
+    top: 40px;
+    box-sizing: border-box;
 }
     

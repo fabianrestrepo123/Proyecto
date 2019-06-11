@@ -7,10 +7,9 @@ import '../estilos/Botones.css'
 class NavbarExtras extends Component{
     render(){
         return(  
-            <div class="btn-group">
-                <button type="button" class="btn btn-primary1">Iniciar sesion</button>
+            <div>
+                <button type="button" class="btn btn-primary2">Registrarse</button>
             </div>
-            
         )
     }
 }

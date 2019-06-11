@@ -2,14 +2,19 @@ import React, {Component} from 'react';
 import NavbarComponent from './NavBarComponents'
 import NavFooter from './Footer'
 import Texto from './Texto'
+import NavbarExtras  from './Extras'
+    
 
 const Layout = (props) =>{
     return (
         <React.Fragment>
-            <NavbarComponent />
+            <div>
+            <NavbarComponent/>
             <Texto />
-            <NavFooter />
+            <NavbarExtras/>
+            < NavFooter />
             {props.children}
+            </div>
         </React.Fragment>
     )
 }

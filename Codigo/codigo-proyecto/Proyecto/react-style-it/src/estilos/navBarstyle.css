@@ -1,7 +1,16 @@
 .Navbar{
-width: 100%;
-padding: 1px;
+
 background-color: #db151ce8;
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+z-index: 1071;
+width: 100%;
+padding: -2rem;
+
 }
 
 .Navbar__brand{
@@ -17,9 +26,21 @@ background-color: #db151ce8;
     color: black;
 }
 .Navbar__brand-logo{
+    position: relative;
+    height: 60px;
+    bottom: -1rem; 
     margin-right: 0.5rem;
-    height: 70px;
 }
 
+.form-inline{
+    position: relative;
+    padding-left:40rem;
+    bottom: 2rem;
+    }
+
+.mb-2{
+    background: black;
+    border: black;
+}
 
 

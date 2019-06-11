@@ -1,9 +1,50 @@
+
 .footer_1{
-    padding: 20px;
+    padding: 10px;
     background-color: gray;
     position: relative;
-    top: 559px;
+    top: 29px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
     font: bold;
+}
+
+.btn_btn-primary_mb-5{
+    position: relative;
+    background: gray;
+    width: auto;   
+    left: 35%; 
+    bottom: -4px;
+    border:gray;
+    }
+
+.btn_btn-primary_mb-6{
+    position: relative;
+    background: gray;
+    width: auto;   
+    left: 40%; 
+    bottom: -4px;
+    border:gray;
+}
+
+.btn_btn-primary_mb-7{
+    position: relative;
+    background: gray;
+    width: auto;   
+    left: 45%; 
+    bottom: -4px;
+    border:gray;
+}
+
+.Footer__logo2{
+   height: 50px;
+}
+
+.Footer__logo1{
+    height: 50px;
+    
+}
+
+.Footer__logo3{
+    height: 35px;
 }

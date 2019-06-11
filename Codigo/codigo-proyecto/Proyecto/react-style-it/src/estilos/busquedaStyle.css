@@ -1,8 +1,8 @@
 .mr-sm-2{
     background-color: white;
     position: relative;
-    left: 40%;
-    top: 10px;
+    left: 20%;
+    top: 15px;
     color: #bfbfbf;
 }
 
@@ -21,9 +21,9 @@
     margin: 10px;
     font-size: 16.5px;
     position: relative;
-    top: 10px;
+    top: 15px;
     right: 12.5%;
-    left: 35%;
+    left: 14.5%;
     width: 70px;
 }
 

@@ -15,21 +15,25 @@ class NavBarComponents extends Component{
         return(
             <div className="Navbar">  
                 <div className ="container-fluid" >
-                    <div className="row">
+                    <div>
                         <div className="col-7">
                             <a className="NavBar__brand" href="/home">
                             <img className="Navbar__brand-logo" src={logo} alt="Logo" />
                             </a>
                         </div>
-                        <div className="row-0">
-                            <Busqueda/>
-                        </div>
-                        <div className="row-2">
-                            <NavbarExtras/>
-                        </div>
                     </div>
+                    <form class="form-inline">
+                    <div class="form-group mb-2">
+                    <label for="inputEmail2" class="sr-only">Email</label>
+                    <input type="email" readonly class="form-control" id="inputEmail2" placeholder="Email"/>
+                    </div>
+                    <div class="form-group mx-sm-3 mb-2">
+                    <label for="inputPassword2" class="sr-only">Password</label>
+                    <input type="password" class="form-control" id="inputPassword2" placeholder="Password"/>
+                    </div>
+                <button type="submit" class="btn btn-primary mb-2">Inicar sesión</button>
+                    </form>
                 </div>
-                
             </div>
               
         )
