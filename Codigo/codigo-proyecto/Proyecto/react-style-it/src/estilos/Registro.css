@@ -1,0 +1,21 @@
+.formulario{
+    position: relative;
+    padding-left: 37rem;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1.5rem;
+}
+
+.input-group{
+    padding-bottom: 1.5rem;
+    border-radius: 0.25rem;
+}
+
+.btn-submit{
+    color: white;
+    background: black;
+    border-radius: 0.25rem;
+    border-color: black;
+}
